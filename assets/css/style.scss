@@ -1,0 +1,26 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$primary-color: #84B1A1;  // 132/177/161
+
+body {
+}
+
+.page-header {
+  background-image: url("/assets/img/coderlogo_falkenberg_outline.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: white;
+  
+  .project-name { visibility: hidden; }
+  .project-tagline { visibility: hidden; }
+  .btn { visibility: hidden; }
+}
+
+.main-content {
+  h1, h2, h3, h4, h5 {
+    color: $primary-color;
+  }
+}
