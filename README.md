@@ -8,12 +8,7 @@ Välkommen till CoderDojo Falkenberg! Här finns information om hur du kommer ig
 
 ## Scratch
 
-Här finns Scratch: [https://scratch.mit.edu/](https://scratch.mit.edu/)
-
-### Exempelprojekt och guider till Scratch
-
-* Skapa musik - gör en egen synth med Scratch:  https://www.kodboken.se/start/musik/uppgifter-i-scratch/fantasisynth
-
+Scratch är ett bra steg efter att man kört lite code.org. Här är vår [Scratch-sida](scratch.md).
 ## Unity
 
 För de som kommit lite längre kan Unity vara intressant. Vi har samlat några länkar på [Unity](Unity.md)-sidan.
