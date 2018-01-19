@@ -2,7 +2,7 @@
 
 CoderDojo är till för tjejer eller killar mellan 7-17 år som vill programmera. Du kan lära dig att göra bl.a. spel, appar och hemsidor. Det är gratis att och behöver inte kunna programmera innan du kommer.
 
-Vi träffas och programmerar tillsammans varannan söndag 13:00-15:30 på skolan Thoren Framtid i Skrea, med start 9:e april.
+**Uppdatering 2018-01-19:** Efter uppehåll under sommar och höst 2017 kommer vi att göra en omstart under våren 2018. Ambitionen är att köra tisdagar kl 18-20 med start i februari i lokaler på Falkenbergs Gymnasieskola. I slutet maj avslutar vi för sommaruppehåll. Information kommer skickas ut till anmälda. Var du med under våren 2017 är du redan anmäld och behöver inte anmäla dig igen. Vill du inte längre vara med så meddela oss gärna.
 
 På de här sidorna finns information om hur du kommer igång med programmering och länkar till projekt som kan ge inspiration och idéer, och information om hur du anmäler dig till CoderDojo.
 
