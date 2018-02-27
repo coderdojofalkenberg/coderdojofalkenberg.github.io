@@ -12,7 +12,7 @@ Anmälan sker via [det här formuläret]( https://m.bosbec.io/form/02b30d45-30b4
  
 Vi finns på Facebook under [CoderDojo Falkenberg](https://www.facebook.com/groups/coderdojofalkenberg/).
 
-Har ni några frågor så når ni oss också på epost: ledare@coderdojofalkenberg.se
+Har ni några frågor så når ni oss också på epost: coderdojoledare@qlnk.se <!-- ledare@coderdojofalkenberg.se -->
  
 ### Vi söker fler ledare!
 
