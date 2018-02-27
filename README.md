@@ -8,7 +8,7 @@ På de här sidorna finns information om hur du kommer igång med programmering 
 
 ### Anmälan och kontakt
 
-Anmälan sker via [det här formuläret]( https://goo.gl/forms/7ZoOPwEi3xqB4XI73).
+Anmälan sker via [det här formuläret]( https://m.bosbec.io/form/02b30d45-30b4-4a3d-91f7-25267407006a).
  
 Vi finns på Facebook under [CoderDojo Falkenberg](https://www.facebook.com/groups/coderdojofalkenberg/).
 
