@@ -32,3 +32,8 @@ Scratch är ett naturligt steg efter att man kört lite code.org. Här är vår 
 ### Unity
 
 För de som kommit lite längre kan Unity vara intressant. Vi har samlat några länkar på [Unity](Unity.md)-sidan.
+
+
+### Scratch till javascript
+
+Översättningar från Scratch till javascript [Js](js.md)-sidan.
