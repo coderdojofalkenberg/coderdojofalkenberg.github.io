@@ -1,5 +1,7 @@
 # Översättning Scratch -> .js #
 
+
+![Slumptal](/assets/img/random_block.png)
 ## Slumptal-blocket ##
 ```javascript
 // Slumpa ett tal  
