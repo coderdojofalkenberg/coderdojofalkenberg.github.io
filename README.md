@@ -22,8 +22,8 @@ Till nummer: **71350**
 Med texten: **coderdojofbg**
 
 
-Eller så skickar du ett email:
-Till: **coderdojoledare@qlnk.se**
+Eller så skickar du ett email:  
+Till: **coderdojoledare@qlnk.se**  
 Med ämnesraden: **anmälan**
 
 
